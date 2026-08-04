@@ -35,6 +35,7 @@ def deleteNews():
                 'timestamp':timestamp
                     }
                     ) 
+// Actualizacion de lambda
 
 def findNews():
     #News credit to newsapi.org
